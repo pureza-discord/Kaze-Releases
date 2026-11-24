@@ -9,7 +9,7 @@
 <br />
 
 <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3200&pause=1000&color=EAB308&center=true&vCenter=true&width=720&lines=Multi-Account+Isolation+%26+2-Layer+Proxy+Kill-Switch;Build+Planner+%26+Hunt+Analyzer+for+LoL+Idle;Automatic+SHA-512+Verified+Updates+for+Windows+x64;Built+for+Performance%2C+Privacy+%26+Total+Control" alt="Kaze Launcher Highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Multi-Account+Isolation+%26+2-Layer+Proxy+Kill-Switch;Build+Planner+%26+Hunt+Analyzer+for+LoL+Idle;Automatic+SHA-512+Verified+Updates+for+Windows+x64;Built+for+Performance%2C+Privacy+%26+Total+Control" alt="Kaze Launcher Highlights" />
 </a>
 
 <p>
