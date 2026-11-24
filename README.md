@@ -9,10 +9,13 @@
 <br />
 
 <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2800&pause=1400&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=36&lines=PERFORMANCE%2C+PRIVACY+%26+TOTAL+CONTROL;ISOLATED+MULTI-ACCOUNT+FOR+LOL+IDLE;BUILD+PLANNER+%26+HUNT+ANALYZER+BUILT-IN;LIGHTWEIGHT+RAM+%E2%80%A2+1-CLICK+AUTO-UPDATE" alt="Kaze Launcher Highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3200&pause=1000&color=EAB308&center=true&vCenter=true&width=720&lines=Multi-Account+Isolation+%26+2-Layer+Proxy+Kill-Switch;Build+Planner+%26+Hunt+Analyzer+for+LoL+Idle;Automatic+SHA-512+Verified+Updates+for+Windows+x64;Built+for+Performance%2C+Privacy+%26+Total+Control" alt="Kaze Launcher Highlights" />
 </a>
 
-<br />
+<p>
+  <strong>Canal oficial de distribuição e atualizações automáticas para Windows.</strong><br />
+  <sub>Official Windows installer &amp; automatic update distribution channel.</sub>
+</p>
 
 <img src="./assets/ui/pulse-bar.svg" alt="" width="680" />
 
@@ -46,9 +49,7 @@
 <a id="preview"></a>
 
 <div align="center">
-  <img src="./assets/aphelios-gif.gif" alt="Kaze Launcher em execução no LoL Idle" width="82%" />
-  <br />
-  <sub><em>Kaze Launcher rodando LoL Idle com sessões isoladas, Build Planner e ferramentas integradas.</em></sub>
+  <img src="./assets/aphelios-gif.gif" alt="Kaze Launcher" width="84%" />
 </div>
 
 <p align="center">
@@ -59,9 +60,9 @@
 
 ## Português (BR)
 
-Canal oficial de distribuição do **Kaze Launcher** para Windows x64. Um cliente desktop dedicado para jogar **LoL Idle** com múltiplas contas isoladas, controle de proxy, otimização de RAM e ferramentas analíticas integradas.
+Cliente desktop dedicado para jogar **LoL Idle** no Windows x64 com múltiplas contas isoladas, controle de proxy, otimização de RAM e ferramentas analíticas integradas.
 
-### <img src="./assets/icons/download.svg" width="22" height="22" align="absmiddle" /> &nbsp;Download
+### <img src="./assets/icons/download.svg" width="26" height="26" align="absmiddle" /> &nbsp;Download
 
 <div align="center">
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
@@ -75,7 +76,7 @@ Escolha o formato desejado nos **Assets** da última release:
 
 | Arquivo | Formato | Indicação |
 | :--- | :---: | :--- |
-| `Kaze.Launcher-Setup-0.8.8-x64.exe` | **Setup** | Cria atalhos no Menu Iniciar e na Área de Trabalho, mantendo seus dados intactos em cada atualização **(recomendado)**. |
+| `Kaze.Launcher-Setup-0.8.8-x64.exe` | **Setup** | Cria atalhos no Menu Iniciar e na Área de Trabalho, preservando seus dados em cada atualização **(recomendado)**. |
 | `Kaze.Launcher-Portable-0.8.8-x64.exe` | **Portable** | Executável único para rodar diretamente de qualquer pasta, sem instalação. |
 
 > [!NOTE]
@@ -86,55 +87,55 @@ Escolha o formato desejado nos **Assets** da última release:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/grid.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Sessões Multi-Conta Isoladas</strong></p>
+      <p><img src="./assets/icons/grid.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Sessões Multi-Conta Isoladas</strong></p>
       <p>Grupos e contas ilimitadas com cookies, cache e zoom (<code>30%–200%</code>) independentes. Layouts flexíveis (<code>Auto</code>, <code>3+2</code>, grade personalizada até <code>4×4</code>, abas e modo foco) com paginação sem recarregar nenhuma conta.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/shield.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Controle de IP e Proxies</strong></p>
+      <p><img src="./assets/icons/shield.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Controle de IP e Proxies</strong></p>
       <p><strong>Slot 0</strong> no seu IP real + proxies <strong>HTTP, HTTPS e SOCKS5</strong> com <em>kill-switch</em> em 2 camadas, proteção contra vazamento WebRTC e contador mensal de banda por proxy.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/sword.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Build Planner &amp; Hunt Analyzer</strong></p>
+      <p><img src="./assets/icons/sword.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Build Planner &amp; Hunt Analyzer</strong></p>
       <p>Três motores independentes alinhados ao LoL Idle: <strong>PvE</strong> (XP/h e Ouro/h), <strong>Dungeon</strong> (simulação das 7 Dungeons oficiais) e <strong>PvP 1v1</strong>. Inclui importação direta do personagem, comparador <strong>Build A vs B</strong> e <strong>Recomendação da Kaze</strong>.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/puzzle.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Extensões por Conta &amp; Painel Lateral</strong></p>
+      <p><img src="./assets/icons/puzzle.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Extensões por Conta &amp; Painel Lateral</strong></p>
       <p>Instale extensões via <code>.zip</code>, <code>.crx</code>, pasta <em>unpacked</em> ou importando do navegador. Já inclui <em>Hunt for LoL Idle</em> (<code>1zephzrx</code>) pronta para ativar por conta, com atalho <strong>Hunt</strong> acoplado lado a lado com o personagem.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/tv.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Painel V/L: Votos e Lives da Twitch</strong></p>
+      <p><img src="./assets/icons/tv.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Painel V/L: Votos e Lives da Twitch</strong></p>
       <p>Lives da Twitch via <strong>Chatterino 2</strong> portátil (~20 MB de RAM, sem vídeo) com redirecionamento direto dos links do jogo. Votação sem bloqueios em perfil isolado do navegador real (Chrome, Edge, Brave ou Firefox) usando o proxy da conta.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/bolt.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Otimização de RAM e Desempenho</strong></p>
+      <p><img src="./assets/icons/bolt.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Otimização de RAM e Desempenho</strong></p>
       <p>Perfis de desempenho (<em>Automático</em>, <em>Ultra economia</em>, <em>Equilibrado</em> e <em>Desempenho</em>), hibernação opcional, <em>watchdog</em> e botão <strong>Otimizar Memória RAM</strong> com limpeza automática a cada <strong>60 minutos</strong> sem perder logins ou cookies.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/refresh.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Atualização Automática em 1 Clique</strong></p>
+      <p><img src="./assets/icons/refresh.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Atualização Automática em 1 Clique</strong></p>
       <p>Verifica novas versões em segundo plano com validação criptográfica <strong>SHA-512</strong> (<code>latest.yml</code>) e separação estrita entre <strong>Setup</strong> e <strong>Portable</strong>. Basta clicar em <strong>Atualizar · Reiniciar</strong> dentro do app.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/lock.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Privacidade Local, Temas e Backup</strong></p>
+      <p><img src="./assets/icons/lock.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Privacidade Local, Temas e Backup</strong></p>
       <p>6 temas prontos + editor personalizado, idiomas <strong>PT-BR / EN</strong>, paleta <code>Ctrl+K</code>, cofre de senhas opcional (<code>AES-256-GCM</code>) e backups JSON criptografados. Todos os dados ficam exclusivamente em <code>%APPDATA%/Kaze</code>.</p>
     </td>
   </tr>
 </table>
 
-### <img src="./assets/icons/crown.svg" width="22" height="22" align="absmiddle" /> &nbsp;Créditos e Contato
+### <img src="./assets/icons/crown.svg" width="26" height="26" align="absmiddle" /> &nbsp;Créditos e Contato
 
 <table>
   <tr>
     <td width="50%" valign="middle">
-      <img src="./assets/icons/discord.svg" width="20" height="20" align="absmiddle" /> &nbsp;<strong>Kaze Launcher:</strong> criado por <strong>taki</strong> · Discord: <code>justviole</code>
+      <img src="./assets/icons/discord.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Kaze Launcher:</strong> criado por <strong>taki</strong> · Discord: <code>justviole</code>
     </td>
     <td width="50%" valign="middle">
-      <img src="./assets/icons/discord.svg" width="20" height="20" align="absmiddle" /> &nbsp;<strong>Hunt for LoL Idle:</strong> créditos a <strong>1zephzrx</strong> · Discord: <code>1zephzrx</code>
+      <img src="./assets/icons/discord.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Hunt for LoL Idle:</strong> créditos a <strong>1zephzrx</strong> · Discord: <code>1zephzrx</code>
     </td>
   </tr>
 </table>
@@ -149,9 +150,9 @@ Escolha o formato desejado nos **Assets** da última release:
 
 ## English (US)
 
-Official distribution channel for **Kaze Launcher** (Windows x64). A dedicated desktop client for **LoL Idle** featuring isolated multi-account sessions, proxy control, RAM optimization, and built-in analytical tools.
+Dedicated Windows x64 desktop client for **LoL Idle** featuring isolated multi-account sessions, proxy control, RAM optimization, and built-in analytical tools.
 
-### <img src="./assets/icons/download.svg" width="22" height="22" align="absmiddle" /> &nbsp;Download
+### <img src="./assets/icons/download.svg" width="26" height="26" align="absmiddle" /> &nbsp;Download
 
 <div align="center">
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
@@ -176,55 +177,55 @@ Choose your preferred format under **Assets** on the latest release page:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/grid.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Isolated Multi-Account Sessions</strong></p>
+      <p><img src="./assets/icons/grid.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Isolated Multi-Account Sessions</strong></p>
       <p>Unlimited groups and accounts with separate cookies, cache, and zoom (<code>30%–200%</code>). Flexible layouts (<code>Auto</code>, <code>3+2</code>, custom grids up to <code>4×4</code>, tabs, and focus mode) with reload-free pagination.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/shield.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>IP Control &amp; Proxies</strong></p>
+      <p><img src="./assets/icons/shield.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>IP Control &amp; Proxies</strong></p>
       <p><strong>Slot 0</strong> on your real IP + <strong>HTTP, HTTPS, and SOCKS5</strong> proxies with a 2-layer kill-switch, WebRTC leak protection, and monthly per-proxy bandwidth tracking.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/sword.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Build Planner &amp; Hunt Analyzer</strong></p>
+      <p><img src="./assets/icons/sword.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Build Planner &amp; Hunt Analyzer</strong></p>
       <p>Three independent engines aligned with LoL Idle: <strong>PvE</strong> (XP/h &amp; Gold/h), <strong>Dungeon</strong> (all 7 official Dungeons), and <strong>PvP 1v1</strong>. Includes live character import, <strong>Build A vs B</strong> comparator, and <strong>Kaze Recommendation</strong>.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/puzzle.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Per-Account Extensions &amp; Side Panel</strong></p>
+      <p><img src="./assets/icons/puzzle.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Per-Account Extensions &amp; Side Panel</strong></p>
       <p>Load extensions from <code>.zip</code>, <code>.crx</code>, unpacked folders, or browser import. Ships with <em>Hunt for LoL Idle</em> (<code>1zephzrx</code>) ready to toggle per account via the docked <strong>Hunt</strong> side-by-side panel.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/tv.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>V/L Panel: Votes &amp; Twitch Lives</strong></p>
+      <p><img src="./assets/icons/tv.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>V/L Panel: Votes &amp; Twitch Lives</strong></p>
       <p>Twitch chat via portable <strong>Chatterino 2</strong> (~20 MB RAM, no video decoding) with automatic redirect from in-game stream links. Block-free voting inside an isolated real browser profile (Chrome, Edge, Brave, or Firefox) using the account's proxy.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/bolt.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>RAM Optimization &amp; Performance</strong></p>
+      <p><img src="./assets/icons/bolt.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>RAM Optimization &amp; Performance</strong></p>
       <p>Performance profiles (<em>Automatic</em>, <em>Ultra Eco</em>, <em>Balanced</em>, and <em>Performance</em>), optional hibernation, watchdog, and a dedicated <strong>Optimize RAM</strong> button with automatic <strong>60-minute</strong> cleanup preserving logins and cookies.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/refresh.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>1-Click Automatic Updates</strong></p>
+      <p><img src="./assets/icons/refresh.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>1-Click Automatic Updates</strong></p>
       <p>Checks for new releases in the background with <strong>SHA-512</strong> checksum validation (<code>latest.yml</code>) and strict separation between <strong>Setup</strong> and <strong>Portable</strong> builds. Click <strong>Update · Restart</strong> inside the launcher to apply.</p>
     </td>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/lock.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Local Privacy, Themes &amp; Backups</strong></p>
+      <p><img src="./assets/icons/lock.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Local Privacy, Themes &amp; Backups</strong></p>
       <p>6 built-in themes + custom palette editor, live <strong>PT-BR / EN</strong> switching, <code>Ctrl+K</code> command palette, optional password vault (<code>AES-256-GCM</code>), and encrypted JSON backups. All data stays strictly local in <code>%APPDATA%/Kaze</code>.</p>
     </td>
   </tr>
 </table>
 
-### <img src="./assets/icons/crown.svg" width="22" height="22" align="absmiddle" /> &nbsp;Credits & Contact
+### <img src="./assets/icons/crown.svg" width="26" height="26" align="absmiddle" /> &nbsp;Credits & Contact
 
 <table>
   <tr>
     <td width="50%" valign="middle">
-      <img src="./assets/icons/discord.svg" width="20" height="20" align="absmiddle" /> &nbsp;<strong>Kaze Launcher:</strong> created by <strong>taki</strong> · Discord: <code>justviole</code>
+      <img src="./assets/icons/discord.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Kaze Launcher:</strong> created by <strong>taki</strong> · Discord: <code>justviole</code>
     </td>
     <td width="50%" valign="middle">
-      <img src="./assets/icons/discord.svg" width="20" height="20" align="absmiddle" /> &nbsp;<strong>Hunt for LoL Idle:</strong> credits to <strong>1zephzrx</strong> · Discord: <code>1zephzrx</code>
+      <img src="./assets/icons/discord.svg" width="22" height="22" align="absmiddle" /> &nbsp;<strong>Hunt for LoL Idle:</strong> credits to <strong>1zephzrx</strong> · Discord: <code>1zephzrx</code>
     </td>
   </tr>
 </table>

@@ -1,15 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#141330"/>
-      <stop offset="100%" stop-color="#090e1c"/>
+    <linearGradient id="bg" x1="2" y1="2" x2="30" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1638"/>
+      <stop offset="100%" stop-color="#090f1f"/>
     </linearGradient>
-    <linearGradient id="pr" x1="5" y1="5" x2="19" y2="19" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#d8b4fe"/>
+    <radialGradient id="gl" cx="16" cy="16" r="13" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bd" x1="2" y1="2" x2="30" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#d8b4fe" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#facc15" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="pr" x1="8" y1="8" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#e9d5ff"/>
       <stop offset="100%" stop-color="#9333ea"/>
     </linearGradient>
+    <style>
+      .core { animation: pulse 2.6s ease-in-out infinite; }
+      @keyframes pulse { 0%, 100% { opacity: 0.6; } 50% { opacity: 1; } }
+    </style>
   </defs>
-  <rect x="0.75" y="0.75" width="22.5" height="22.5" rx="6" fill="url(#bg)" stroke="#a855f7" stroke-opacity="0.5" stroke-width="1.2"/>
-  <path d="M10.2 6.8a1.8 1.8 0 1 1 3.6 0H17a1 1 0 0 1 1 1v3.1a1.8 1.8 0 1 1 0 3.6V17a1 1 0 0 1-1 1h-3.1a1.8 1.8 0 1 0-3.6 0H7a1 1 0 0 1-1-1v-2.7a1.8 1.8 0 1 0 0-3.6V7.8a1 1 0 0 1 1-1h3.2Z" fill="#a855f7" fill-opacity="0.18" stroke="url(#pr)" stroke-width="1.5" stroke-linejoin="round"/>
-  <circle cx="12" cy="12.4" r="1.5" fill="#facc15"/>
+  <rect x="1" y="1" width="30" height="30" rx="8.5" fill="url(#bg)" stroke="url(#bd)" stroke-width="1.2"/>
+  <rect x="2" y="2" width="28" height="28" rx="7.5" fill="url(#gl)"/>
+  <path d="M9 2.2h14" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1" stroke-linecap="round"/>
+  <path d="M13.6 9.5a2.4 2.4 0 1 1 4.8 0h3.1a1.5 1.5 0 0 1 1.5 1.5v3.2a2.4 2.4 0 1 1 0 4.8V22a1.5 1.5 0 0 1-1.5 1.5h-3.1a2.4 2.4 0 1 0-4.8 0h-3.1A1.5 1.5 0 0 1 9 22v-3a2.4 2.4 0 1 0 0-4.8V11a1.5 1.5 0 0 1 1.5-1.5h3.1Z" fill="#a855f7" fill-opacity="0.18" stroke="url(#pr)" stroke-width="1.75" stroke-linejoin="round"/>
+  <circle class="core" cx="16" cy="16.5" r="2" fill="#facc15"/>
 </svg>

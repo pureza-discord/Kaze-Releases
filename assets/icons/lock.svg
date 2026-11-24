@@ -1,16 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#111b33"/>
-      <stop offset="100%" stop-color="#090e1c"/>
+    <linearGradient id="bg" x1="2" y1="2" x2="30" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#13203d"/>
+      <stop offset="100%" stop-color="#090f1f"/>
     </linearGradient>
-    <linearGradient id="cy" x1="6" y1="10" x2="18" y2="19" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#7dd3fc"/>
+    <radialGradient id="gl" cx="16" cy="17" r="13" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bd" x1="2" y1="2" x2="30" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7dd3fc" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="cy" x1="9" y1="14" x2="23" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#bae6fd"/>
       <stop offset="100%" stop-color="#0ea5e9"/>
     </linearGradient>
+    <style>
+      .kh { animation: pulse 2.8s ease-in-out infinite; }
+      @keyframes pulse { 0%, 100% { opacity: 0.6; } 50% { opacity: 1; } }
+    </style>
   </defs>
-  <rect x="0.75" y="0.75" width="22.5" height="22.5" rx="6" fill="url(#bg)" stroke="#38bdf8" stroke-opacity="0.45" stroke-width="1.2"/>
-  <path d="M8.8 10.6V8.5a3.2 3.2 0 1 1 6.4 0v2.1" stroke="#c084fc" stroke-width="1.7" stroke-linecap="round"/>
-  <rect x="6.5" y="10.6" width="11" height="8" rx="2" fill="#38bdf8" fill-opacity="0.16" stroke="url(#cy)" stroke-width="1.6"/>
-  <circle cx="12" cy="14.5" r="1.2" fill="#facc15"/>
+  <rect x="1" y="1" width="30" height="30" rx="8.5" fill="url(#bg)" stroke="url(#bd)" stroke-width="1.2"/>
+  <rect x="2" y="2" width="28" height="28" rx="7.5" fill="url(#gl)"/>
+  <path d="M9 2.2h14" stroke="#ffffff" stroke-opacity="0.16" stroke-width="1" stroke-linecap="round"/>
+  <path d="M11.8 14.2v-2.7a4.2 4.2 0 1 1 8.4 0v2.7" stroke="#c084fc" stroke-width="2" stroke-linecap="round"/>
+  <rect x="8.8" y="14.2" width="14.4" height="10.4" rx="2.6" fill="#38bdf8" fill-opacity="0.16" stroke="url(#cy)" stroke-width="1.8"/>
+  <circle class="kh" cx="16" cy="19.3" r="1.6" fill="#facc15"/>
 </svg>
