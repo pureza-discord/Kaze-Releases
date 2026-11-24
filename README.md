@@ -2,125 +2,184 @@
 
 <div align="center">
 
-<!-- HERO BANNER -->
 <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-  <img src="./assets/thumb.png" alt="Kaze Launcher Banner" width="100%" />
+  <img src="./assets/banner.jpg" alt="Kaze Launcher — LoL Idle" width="100%" />
 </a>
 
 <br />
 
-# 風 Kaze Launcher
-
-<!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3200&pause=1000&color=EAB308&center=true&vCenter=true&width=720&lines=Multi-Account+Isolation+%26+2-Layer+Proxy+Kill-Switch;Build+Planner+%26+Hunt+Analyzer+for+LoL+Idle;Automatic+SHA-512+Verified+Updates+for+Windows+x64;Built+for+Performance%2C+Privacy+%26+Total+Control" alt="Kaze Launcher Highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3200&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&height=36&lines=MULTI-ACCOUNT+LAUNCHER+FOR+LOL+IDLE;ISOLATED+SESSIONS+%26+2-LAYER+PROXY+KILL-SWITCH;BUILD+PLANNER+%26+HUNT+ANALYZER+BUILT-IN;PERFORMANCE%2C+PRIVACY+%26+TOTAL+CONTROL" alt="Kaze Launcher" />
 </a>
 
 <p>
-  <strong>Canal oficial de distribuição e atualizações automáticas para Windows.</strong><br />
-  <sub>Official Windows installer &amp; automatic update distribution channel.</sub>
+  <img src="./assets/icons/pixel-pulse.svg" alt="" width="600" />
 </p>
 
-<!-- DYNAMIC LIVE BADGES -->
 <p>
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-    <img src="https://img.shields.io/github/v/release/pureza-discord/Kaze-Releases?style=for-the-badge&color=eab308&labelColor=18181b&label=LATEST" alt="Latest Release" />
+    <img src="https://img.shields.io/github/v/release/pureza-discord/Kaze-Releases?style=for-the-badge&color=38bdf8&labelColor=0b0f19&label=LATEST" alt="Latest Release" />
   </a>
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases">
-    <img src="https://img.shields.io/github/downloads/pureza-discord/Kaze-Releases/total?style=for-the-badge&color=22c55e&labelColor=18181b&label=DOWNLOADS" alt="Total Downloads" />
+    <img src="https://img.shields.io/github/downloads/pureza-discord/Kaze-Releases/total?style=for-the-badge&color=a855f7&labelColor=0b0f19&label=DOWNLOADS" alt="Total Downloads" />
   </a>
-  <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-    <img src="https://img.shields.io/github/release-date/pureza-discord/Kaze-Releases?style=for-the-badge&color=a855f7&labelColor=18181b&label=UPDATED" alt="Last Release Date" />
-  </a>
-  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011%20(x64)-0ea5e9?style=for-the-badge&labelColor=18181b&logo=windows&logoColor=white" alt="Windows 10/11 x64" />
-  <img src="https://img.shields.io/badge/Source-Closed%20%2F%20Private-71717a?style=for-the-badge&labelColor=18181b" alt="Closed Source" />
+  <img src="https://img.shields.io/badge/WINDOWS-10%20%7C%2011%20x64-0ea5e9?style=for-the-badge&labelColor=0b0f19&logo=windows&logoColor=38bdf8" alt="Windows 10/11 x64" />
+  <img src="https://img.shields.io/badge/LICENSE-CLOSED%20SOURCE-facc15?style=for-the-badge&labelColor=0b0f19" alt="Closed Source" />
 </p>
 
-<br />
-
-<!-- QUICK NAVIGATION BAR -->
 <p>
-  <a href="#pt-br"><strong>🇧🇷 Português (BR)</strong></a> &nbsp;·&nbsp;
-  <a href="#en-us"><strong>🇺🇸 English (US)</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest"><strong>⬇️ Download Latest</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/pureza-discord/Kaze-Releases/releases"><strong>📜 Changelog</strong></a>
+  <a href="#pt-br"><strong>PORTUGUÊS (BR)</strong></a> &nbsp;·&nbsp;
+  <a href="#en-us"><strong>ENGLISH (US)</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest"><strong>DOWNLOAD</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/pureza-discord/Kaze-Releases/releases"><strong>RELEASES</strong></a>
 </p>
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/divider.jpg" alt="" width="100%" />
+</p>
 
 <a id="pt-br"></a>
 
-## 🇧🇷 Português (BR)
+## Português (BR)
 
-Este repositório é o **canal público oficial** de distribuição de binários e manifestos de atualização automática do **Kaze Launcher** para Windows x64. O código-fonte permanece fechado e privado; os executáveis compilados são publicados e verificados aqui.
+Canal oficial de distribuição do **Kaze Launcher** para Windows x64 — um cliente desktop dedicado para jogar **LoL Idle** com múltiplas contas isoladas, controle de proxy, otimização de memória e ferramentas avançadas integradas.
 
-### ⬇️ Download
+### <img src="./assets/icons/download.svg" width="18" height="18" align="absmiddle" /> Download
 
 <div align="center">
-
-[![Baixar última versão](https://img.shields.io/badge/BAIXAR%20ÚLTIMA%20VERSÃO-Windows%20x64-eab308?style=for-the-badge&logo=windows&logoColor=18181b&labelColor=facc15)](https://github.com/pureza-discord/Kaze-Releases/releases/latest)
-
+  <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
+    <img src="https://img.shields.io/badge/BAIXAR%20%C3%9ALTIMA%20VERS%C3%83O-WINDOWS%20x64-38bdf8?style=for-the-badge&logo=windows&logoColor=0b0f19&labelColor=facc15" alt="Baixar última versão" />
+  </a>
 </div>
-
-Na aba **Assets** da última release, escolha o formato ideal para o seu uso:
-
-| Artefato | Formato | Recomendação |
-| :--- | :---: | :--- |
-| `Kaze.Launcher-Setup-<versão>-x64.exe` | **Instalador (Setup)** | Cria atalhos no Menu Iniciar e Área de Trabalho e mantém todos os seus dados intactos nas atualizações **(recomendado)**. |
-| `Kaze.Launcher-Portable-<versão>-x64.exe` | **Portátil (Portable)** | Executável único para rodar diretamente de qualquer pasta ou pendrive, sem instalação no sistema. |
-
-> [!NOTE]
-> **Aviso do Windows SmartScreen:** por ser uma distribuição independente sem certificado comercial EV, o Windows pode exibir um alerta na primeira execução. Clique em **Mais informações → Executar assim mesmo**.
-
-<details>
-<summary><strong>⚙️ Requisitos do Sistema &amp; Armazenamento Local</strong></summary>
 
 <br />
 
-* **Sistema Operacional:** Windows 10 ou Windows 11 (64-bit / x64).
-* **Armazenamento de Dados:** 100% local em `%APPDATA%\Kaze` (sessões, perfis, credenciais e backups JSON criptografados).
-* **Integração de Votos (opcional):** Chrome, Edge, Brave ou Firefox instalado para abertura de perfil isolado com proxy.
+Escolha o formato nos **Assets** da última release:
 
-</details>
+| Arquivo | Formato | Indicação |
+| :--- | :---: | :--- |
+| `Kaze.Launcher-Setup-<versão>-x64.exe` | **Setup** | Cria atalhos no Menu Iniciar e Área de Trabalho e preserva seus dados entre versões **(recomendado)**. |
+| `Kaze.Launcher-Portable-<versão>-x64.exe` | **Portable** | Executável único para rodar diretamente de qualquer pasta, sem instalação. |
 
----
+> [!NOTE]
+> Por se tratar de uma distribuição independente sem certificado digital comercial, o Windows SmartScreen pode exibir um alerta na primeira execução. Clique em **Mais informações → Executar assim mesmo**.
 
-### 🔄 Arquitetura de Atualização Automática
-
-Você só precisa baixar o instalador manualmente **uma única vez**. A partir daí, o próprio launcher cuida de todo o ciclo de atualização com integridade criptográfica:
-
-```mermaid
-flowchart LR
-    A["Kaze Launcher<br/>(Windows x64)"] -->|"1. Checa latest.yml"| B["GitHub Releases<br/>(Kaze-Releases)"]
-    B -->|"2. Canal isolado<br/>Setup vs Portable"| C{"Validação<br/>SHA-512"}
-    C -->|"Hash válido"| D["Atualizar · Reiniciar<br/>(Dados preservados)"]
-    C -->|"Hash inválido"| E["Download abortado"]
-```
-
-* **Verificação em segundo plano:** detecta novas releases automaticamente sem interromper sua sessão.
-* **Integridade via SHA-512:** cada binário é validado contra o manifesto `latest.yml`, mantendo builds **Setup** e **Portable** estritamente separadas.
-* **Zero perda de dados:** ao clicar em **Atualizar · Reiniciar**, suas contas, proxies, extensões e configurações permanecem intactos.
-
----
-
-### ✨ Recursos Principais
+### Funcionalidades
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🪟 Sessões Multi-Conta Isoladas</h4>
-      Grupos e contas ilimitadas com cookies, cache e zoom (<code>30%–200%</code>) totalmente independentes. Layouts flexíveis (<code>Auto</code>, <code>3+2</code>, grade customizada até <code>4×4</code>, abas e modo foco) com paginação sem recarregar contas.
+      <p><img src="./assets/icons/grid.svg" width="18" height="18" align="absmiddle" /> <strong>Sessões Multi-Conta Isoladas</strong></p>
+      <p>Grupos e contas ilimitadas com cookies, cache e zoom (<code>30%–200%</code>) independentes. Layouts configuráveis (<code>Auto</code>, <code>3+2</code>, grade personalizada até <code>4×4</code>, abas e foco) com paginação sem recarregar contas.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ Controle de IP &amp; Proxies</h4>
-      <strong>Slot 0</strong> (IP real) + suporte a proxies <strong>HTTP / HTTPS / SOCKS5</strong> com <em>kill-switch</em> em 2 camadas, proteção contra vazamento WebRTC e contador mensal de tráfego por proxy.
+      <p><img src="./assets/icons/shield.svg" width="18" height="18" align="absmiddle" /> <strong>Controle de IP e Proxies</strong></p>
+      <p><strong>Slot 0</strong> (IP real) + proxies <strong>HTTP/HTTPS/SOCKS5</strong> com <em>kill-switch</em> em 2 camadas, proteção contra vazamento WebRTC e contador mensal de banda por proxy.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚔️ Build Planner &amp; Hunt Analyzer</h4>
-      3 motores independentes para LoL Idle (<strong>PvE</strong>, <strong>Dungeon</strong> com as 7 Dungeons oficiais e <strong>PvP 1v1</strong>), importação direta do personagem, comparador <strong>Build A vs B</strong> e <strong>Recomendação da Kaze</strong>.
+      <p><img src="./assets/icons/sword.svg" width="18" height="18" align="absmiddle" /> <strong>Build Planner &amp; Hunt Analyzer</strong></p>
+      <p>3 motores independentes para LoL Idle (<strong>PvE</strong>, <strong>Dungeon</strong> com as 7 Dungeons oficiais e <strong>PvP 1v1</strong>), importação direta do personagem, comparador <strong>Build A vs B</strong> e <strong>Recomendação da Kaze</strong>.</p>
     </td>
-    <td width="50%"
+    <td width="50%" valign="top">
+      <p><img src="./assets/icons/puzzle.svg" width="18" height="18" align="absmiddle" /> <strong>Extensões por Conta &amp; Painel Lateral</strong></p>
+      <p>Suporte a <code>.zip</code>, <code>.crx</code>, pasta <em>unpacked</em> e importação de navegadores. Já inclui <em>Hunt for LoL Idle</em> (<code>1zephzrx</code>) pronta para ativar por conta com atalho lateral <strong>Hunt</strong>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><img src="./assets/icons/tv.svg" width="18" height="18" align="absmiddle" /> <strong>Painel V/L (Votos e Lives)</strong></p>
+      <p>Lives da Twitch via <strong>Chatterino 2</strong> portátil (~20 MB de RAM) e votação sem bloqueios em perfil isolado do navegador real (Chrome, Edge, Brave ou Firefox) usando o proxy da conta.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><img src="./assets/icons/bolt.svg" width="18" height="18" align="absmiddle" /> <strong>Otimização de RAM &amp; Privacidade Local</strong></p>
+      <p>Perfis de desempenho, hibernação opcional, <em>watchdog</em> e limpeza de RAM manual ou automática a cada <strong>60 minutos</strong> (preservando logins e cookies). Dados, sessões e backups JSON criptografados ficam exclusivamente em <code>%APPDATA%/Kaze</code>.</p>
+    </td>
+  </tr>
+</table>
+
+### <img src="./assets/icons/crown.svg" width="18" height="18" align="absmiddle" /> Créditos
+
+* **Kaze Launcher:** desenvolvido por **taki**.
+* **Build Planner & Hunt Analyzer / Hunt for LoL Idle:** créditos a **`1zephzrx`** (Discord: `1zephzrx`).
+
+<p align="right"><a href="#top">Voltar ao topo ↑</a></p>
+
+<p align="center">
+  <img src="./assets/divider.jpg" alt="" width="100%" />
+</p>
+
+<a id="en-us"></a>
+
+## English (US)
+
+Official distribution channel for **Kaze Launcher** (Windows x64) — a dedicated desktop client for **LoL Idle** featuring isolated multi-account sessions, proxy routing, RAM optimization, and built-in analytical tools.
+
+### <img src="./assets/icons/download.svg" width="18" height="18" align="absmiddle" /> Download
+
+<div align="center">
+  <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20LATEST%20RELEASE-WINDOWS%20x64-38bdf8?style=for-the-badge&logo=windows&logoColor=0b0f19&labelColor=facc15" alt="Download latest release" />
+  </a>
+</div>
+
+<br />
+
+Choose your preferred format under **Assets** on the latest release page:
+
+| File | Format | Best For |
+| :--- | :---: | :--- |
+| `Kaze.Launcher-Setup-<version>-x64.exe` | **Setup** | Creates Start Menu & Desktop shortcuts and keeps your data intact across versions **(recommended)**. |
+| `Kaze.Launcher-Portable-<version>-x64.exe` | **Portable** | Single executable that runs from any folder with no installation required. |
+
+> [!NOTE]
+> Because this independent build is not signed with a commercial certificate, Windows SmartScreen may display a warning on first launch. Click **More info → Run anyway**.
+
+### Features
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><img src="./assets/icons/grid.svg" width="18" height="18" align="absmiddle" /> <strong>Isolated Multi-Account Sessions</strong></p>
+      <p>Unlimited groups and accounts with separate cookies, cache, and zoom (<code>30%–200%</code>). Flexible layouts (<code>Auto</code>, <code>3+2</code>, custom grids up to <code>4×4</code>, tabs, and focus mode) with reload-free pagination.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><img src="./assets/icons/shield.svg" width="18" height="18" align="absmiddle" /> <strong>IP Control &amp; Proxies</strong></p>
+      <p><strong>Slot 0</strong> (real IP) + <strong>HTTP/HTTPS/SOCKS5</strong> proxies with a 2-layer kill-switch, WebRTC leak protection, and monthly per-proxy bandwidth tracking.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><img src="./assets/icons/sword.svg" width="18" height="18" align="absmiddle" /> <strong>Build Planner &amp; Hunt Analyzer</strong></p>
+      <p>3 independent engines for LoL Idle (<strong>PvE</strong>, <strong>Dungeon</strong> covering all 7 official Dungeons, and <strong>PvP 1v1</strong>), live character import, <strong>Build A vs B</strong> comparison, and <strong>Kaze Recommendation</strong>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><img src="./assets/icons/puzzle.svg" width="18" height="18" align="absmiddle" /> <strong>Per-Account Extensions &amp; Side Panel</strong></p>
+      <p>Supports <code>.zip</code>, <code>.crx</code>, unpacked folders, and browser import. Ships with <em>Hunt for LoL Idle</em> (<code>1zephzrx</code>) ready to toggle per account via the docked <strong>Hunt</strong> side panel.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><img src="./assets/icons/tv.svg" width="18" height="18" align="absmiddle" /> <strong>V/L Panel (Votes &amp; Lives)</strong></p>
+      <p>Twitch chat via portable <strong>Chatterino 2</strong> (~20 MB RAM) and block-free voting inside an isolated real browser profile (Chrome, Edge, Brave, or Firefox) routed through each account's proxy.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><img src="./assets/icons/bolt.svg" width="18" height="18" align="absmiddle" /> <strong>RAM Optimization &amp; Local Privacy</strong></p>
+      <p>Performance profiles, optional hibernation, watchdog, and manual or automatic <strong>60-minute</strong> RAM cleanup (preserving logins &amp; cookies). All sessions, settings, and encrypted JSON backups stay locally in <code>%APPDATA%/Kaze</code>.</p>
+    </td>
+  </tr>
+</table>
+
+### <img src="./assets/icons/crown.svg" width="18" height="18" align="absmiddle" /> Credits
+
+* **Kaze Launcher:** created by **taki**.
+* **Build Planner & Hunt Analyzer / Hunt for LoL Idle:** credits to **`1zephzrx`** (Discord: `1zephzrx`).
+
+<p align="right"><a href="#top">Back to top ↑</a></p>
+
+<div align="center">
+  <img src="./assets/icons/pixel-pulse.svg" alt="" width="600" />
+</div>
