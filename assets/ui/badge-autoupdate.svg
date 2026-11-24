@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 34" width="198" height="34" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="198" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#13122b"/>
+      <stop offset="100%" stop-color="#090e1c"/>
+    </linearGradient>
+    <linearGradient id="valBg" x1="118" y1="0" x2="198" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cp"><rect x="1" y="1" width="196" height="32" rx="8"/></clipPath>
+    <style>
+      .lb { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 10.5px; font-weight: 700; letter-spacing: 0.8px; fill: #e2e8f0; }
+      .vl { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; font-weight: 800; letter-spacing: 0.5px; fill: #faf5ff; }
+      .sw { animation: swp 5s ease-in-out 1.8s infinite; }
+      @keyframes swp { 0% { transform: translateX(-80px); } 40% { transform: translateX(250px); } 100% { transform: translateX(250px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#cp)">
+    <rect x="0" y="0" width="198" height="34" fill="url(#bg)"/>
+    <rect x="118" y="0" width="80" height="34" fill="url(#valBg)"/>
+    <rect class="sw" x="0" y="0" width="54" height="34" fill="url(#sh)"/>
+  </g>
+  <rect x="1" y="1" width="196" height="32" rx="8" stroke="#a855f7" stroke-opacity="0.6" stroke-width="1.2"/>
+  <path d="M18 11.2 13 13.3v3.5c0 2.9 2.1 5.4 5 6.1 2.9-.7 5-3.2 5-6.1v-3.5l-5-2.1Z" stroke="#c084fc" stroke-width="1.5" fill="#a855f7" fill-opacity="0.18"/>
+  <path d="M16 17l1.4 1.4 2.8-2.8" stroke="#38bdf8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="lb" x="30" y="20.5">AUTO-UPDATE</text>
+  <text class="vl" x="158" y="20.8" text-anchor="middle">SHA-512</text>
+</svg>

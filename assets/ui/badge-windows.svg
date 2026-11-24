@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 198 34" width="198" height="34" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="198" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#090e1c"/>
+    </linearGradient>
+    <linearGradient id="valBg" x1="104" y1="0" x2="198" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0369a1"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="cp"><rect x="1" y="1" width="196" height="32" rx="8"/></clipPath>
+    <style>
+      .lb { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 10.5px; font-weight: 700; letter-spacing: 0.9px; fill: #cbd5e1; }
+      .vl { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 11px; font-weight: 800; letter-spacing: 0.4px; fill: #f0f9ff; }
+      .sw { animation: swp 5s ease-in-out 0.9s infinite; }
+      @keyframes swp { 0% { transform: translateX(-80px); } 40% { transform: translateX(250px); } 100% { transform: translateX(250px); } }
+    </style>
+  </defs>
+  <g clip-path="url(#cp)">
+    <rect x="0" y="0" width="198" height="34" fill="url(#bg)"/>
+    <rect x="104" y="0" width="94" height="34" fill="url(#valBg)"/>
+    <rect class="sw" x="0" y="0" width="54" height="34" fill="url(#sh)"/>
+  </g>
+  <rect x="1" y="1" width="196" height="32" rx="8" stroke="#0ea5e9" stroke-opacity="0.55" stroke-width="1.2"/>
+  <path d="M13 12.2h4.4v4.4H13v-4.4Zm5.4 0h4.4v4.4h-4.4v-4.4ZM13 17.6h4.4V22H13v-4.4Zm5.4 0h4.4V22h-4.4v-4.4Z" fill="#38bdf8"/>
+  <text class="lb" x="30" y="20.5">WINDOWS</text>
+  <text class="vl" x="151" y="20.8" text-anchor="middle">10 / 11 x64</text>
+</svg>

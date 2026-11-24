@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 30" width="144" height="30" fill="none">
+  <rect x="1" y="1" width="142" height="28" rx="14" fill="#0d1528" stroke="#a855f7" stroke-opacity="0.55" stroke-width="1.1"/>
+  <circle cx="18" cy="15" r="3" fill="#a855f7"/>
+  <text x="79" y="18.8" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif" font-size="11" font-weight="700" letter-spacing="0.9" fill="#f3e8ff">ENGLISH (US)</text>
+</svg>
