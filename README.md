@@ -9,7 +9,7 @@
 <br />
 
 <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-  <img src="./assets/ui/tagline-animated.svg" alt="Kaze Launcher Highlights" width="760" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2800&pause=1400&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=36&lines=PERFORMANCE%2C+PRIVACY+%26+TOTAL+CONTROL;ISOLATED+MULTI-ACCOUNT+FOR+LOL+IDLE;BUILD+PLANNER+%26+HUNT+ANALYZER+BUILT-IN;LIGHTWEIGHT+RAM+%E2%80%A2+1-CLICK+AUTO-UPDATE" alt="Kaze Launcher Highlights" />
 </a>
 
 <br />
@@ -40,7 +40,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/divider.jpg" alt="" width="100%" />
+  <img src="./assets/ui/divider.svg" alt="" width="100%" />
 </p>
 
 <a id="preview"></a>
@@ -142,7 +142,7 @@ Escolha o formato desejado nos **Assets** da última release:
 <p align="right"><a href="#top">Voltar ao topo ↑</a></p>
 
 <p align="center">
-  <img src="./assets/divider.jpg" alt="" width="100%" />
+  <img src="./assets/ui/divider.svg" alt="" width="100%" />
 </p>
 
 <a id="en-us"></a>

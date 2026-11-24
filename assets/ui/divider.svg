@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 56" width="960" height="56" fill="none">
+  <defs>
+    <linearGradient id="railL" x1="0" y1="28" x2="430" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3b0764" stop-opacity="0"/>
+      <stop offset="22%" stop-color="#7c3aed" stop-opacity="0.75"/>
+      <stop offset="68%" stop-color="#2563eb" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="railR" x1="960" y1="28" x2="530" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3b0764" stop-opacity="0"/>
+      <stop offset="22%" stop-color="#7c3aed" stop-opacity="0.75"/>
+      <stop offset="68%" stop-color="#2563eb" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="goldL" x1="120" y1="28" x2="430" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ca8a04" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#eab308" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#fde047" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="goldR" x1="840" y1="28" x2="530" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ca8a04" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#eab308" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#fde047" stop-opacity="0.95"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="480" cy="28" r="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#7c3aed" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0b1121" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sparkR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#38bdf8" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#e0f2fe" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="sparkL" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#38bdf8" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#e0f2fe" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="cL"><rect x="30" y="20" width="405" height="16"/></clipPath>
+    <clipPath id="cR"><rect x="525" y="20" width="405" height="16"/></clipPath>
+    <style>
+      .gemAura { animation: breathe 2.8s ease-in-out infinite; }
+      .shR { animation: moveR 3.6s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+      .shL { animation: moveL 3.6s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+      @keyframes breathe {
+        0%, 100% { opacity: 0.55; }
+        50%      { opacity: 1; }
+      }
+      @keyframes moveR {
+        0%   { transform: translateX(510px); opacity: 0; }
+        15%  { opacity: 1; }
+        85%  { opacity: 0.85; }
+        100% { transform: translateX(940px); opacity: 0; }
+      }
+      @keyframes moveL {
+        0%   { transform: translateX(370px); opacity: 0; }
+        15%  { opacity: 1; }
+        85%  { opacity: 0.85; }
+        100% { transform: translateX(-60px); opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Trilhos principais + molduras douradas -->
+  <rect x="20" y="26.5" width="416" height="3" rx="1.5" fill="url(#railL)"/>
+  <rect x="524" y="26.5" width="416" height="3" rx="1.5" fill="url(#railR)"/>
+  <path d="M130 22h298l8 6-8 6H130" stroke="url(#goldL)" stroke-width="1.2" fill="none"/>
+  <path d="M830 22H532l-8 6 8 6h298" stroke="url(#goldR)" stroke-width="1.2" fill="none"/>
+
+  <!-- Pontos rúnicos laterais -->
+  <g shape-rendering="crispEdges">
+    <rect x="240" y="26" width="4" height="4" fill="#a855f7"/>
+    <rect x="310" y="26" width="4" height="4" fill="#38bdf8"/>
+    <rect x="380" y="26" width="4" height="4" fill="#facc15"/>
+    <rect x="576" y="26" width="4" height="4" fill="#facc15"/>
+    <rect x="646" y="26" width="4" height="4" fill="#38bdf8"/>
+    <rect x="716" y="26" width="4" height="4" fill="#a855f7"/>
+  </g>
+
+  <!-- Pulsos de energia saindo do cristal -->
+  <g clip-path="url(#cR)">
+    <rect class="shR" x="0" y="26.5" width="90" height="3" rx="1.5" fill="url(#sparkR)"/>
+  </g>
+  <g clip-path="url(#cL)">
+    <rect class="shL" x="0" y="26.5" width="90" height="3" rx="1.5" fill="url(#sparkL)"/>
+  </g>
+
+  <!-- Aura pulsante do cristal central -->
+  <circle class="gemAura" cx="480" cy="28" r="30" fill="url(#aura)"/>
+
+  <!-- Cristal central em pixel art (grade 4px para estilo RPG/LoL Idle) -->
+  <g shape-rendering="crispEdges">
+    <!-- Borda dourada externa -->
+    <rect x="476" y="4" width="8" height="4" fill="#eab308"/>
+    <rect x="472" y="8" width="4" height="4" fill="#facc15"/>
+    <rect x="484" y="8" width="4" height="4" fill="#ca8a04"/>
+    <rect x="468" y="12" width="4" height="4" fill="#facc15"/>
+    <rect x="488" y="12" width="4" height="4" fill="#ca8a04"/>
+    <rect x="464" y="16" width="4" height="4" fill="#fde047"/>
+    <rect x="492" y="16" width="4" height="4" fill="#eab308"/>
+    <rect x="460" y="20" width="4" height="16" fill="#facc15"/>
+    <rect x="496" y="20" width="4" height="16" fill="#ca8a04"/>
+    <rect x="464" y="36" width="4" height="4" fill="#eab308"/>
+    <rect x="492" y="36" width="4" height="4" fill="#a16207"/>
+    <rect x="468" y="40" width="4" height="4" fill="#ca8a04"/>
+    <rect x="488" y="40" width="4" height="4" fill="#a16207"/>
+    <rect x="472" y="44" width="4" height="4" fill="#ca8a04"/>
+    <rect x="484" y="44" width="4" height="4" fill="#a16207"/>
+    <rect x="476" y="48" width="8" height="4" fill="#a16207"/>
+
+    <!-- Corpo azul/roxo profundo do cristal -->
+    <rect x="476" y="8" width="8" height="40" fill="#0284c7"/>
+    <rect x="472" y="12" width="16" height="32" fill="#0ea5e9"/>
+    <rect x="468" y="16" width="24" height="24" fill="#0369a1"/>
+    <rect x="464" y="20" width="32" height="16" fill="#1d4ed8"/>
+
+    <!-- Facetas luminosas ciano/branco (esquerda/topo) -->
+    <rect x="476" y="8" width="4" height="8" fill="#bae6fd"/>
+    <rect x="472" y="12" width="8" height="8" fill="#7dd3fc"/>
+    <rect x="468" y="16" width="8" height="12" fill="#38bdf8"/>
+    <rect x="464" y="20" width="8" height="8" fill="#7dd3fc"/>
+    <rect x="476" y="20" width="8" height="8" fill="#e0f2fe"/>
+    <rect x="476" y="16" width="4" height="4" fill="#ffffff"/>
+
+    <!-- Facetas de sombra azul/roxo do Vazio (direita/base) -->
+    <rect x="484" y="20" width="12" height="8" fill="#38bdf8"/>
+    <rect x="480" y="28" width="16" height="8" fill="#1e40af"/>
+    <rect x="484" y="36" width="8" height="4" fill="#6d28d9"/>
+    <rect x="476" y="36" width="8" height="8" fill="#2563eb"/>
+    <rect x="476" y="44" width="8" height="4" fill="#7c3aed"/>
+    <rect x="468" y="28" width="8" height="8" fill="#0284c7"/>
+    <rect x="472" y="36" width="4" height="8" fill="#1d4ed8"/>
+  </g>
+</svg>
