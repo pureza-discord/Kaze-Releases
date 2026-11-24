@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 風 Kaze Launcher — Releases
+# 風 Kaze Launcher Releases
 
 **Canal oficial de distribuição de instaladores e atualizações automáticas do Kaze Launcher para Windows.**  
 **Official Windows installer and automatic update distribution channel for Kaze Launcher.**
