@@ -24,7 +24,7 @@
 
 <p>
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-    <img src="./assets/ui/badge-version.svg" alt="Release v0.9.1" height="34" />
+    <img src="./assets/ui/badge-version.svg" alt="Release v0.9.2" height="34" />
   </a>&nbsp;
   <img src="./assets/ui/badge-windows.svg" alt="Windows 10/11 x64" height="34" />&nbsp;
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
@@ -66,7 +66,7 @@ Cliente desktop dedicado para jogar **LoL Idle** no Windows x64 com múltiplas c
 
 <div align="center">
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-    <img src="./assets/ui/btn-download-pt.svg" alt="Baixar Kaze Launcher v0.9.1" width="390" />
+    <img src="./assets/ui/btn-download-pt.svg" alt="Baixar Kaze Launcher v0.9.2" width="390" />
   </a>
 </div>
 
@@ -76,8 +76,8 @@ Escolha o formato desejado nos **Assets** da última release:
 
 | Arquivo | Formato | Indicação |
 | :--- | :---: | :--- |
-| `Kaze.Launcher-Setup-0.9.1-x64.exe` | **Setup** | Cria atalhos no Menu Iniciar e na Área de Trabalho, preservando seus dados em cada atualização **(recomendado)**. |
-| `Kaze.Launcher-Portable-0.9.1-x64.exe` | **Portable** | Executável único para rodar diretamente de qualquer pasta, sem instalação. |
+| `Kaze.Launcher-Setup-0.9.2-x64.exe` | **Setup** | Cria atalhos no Menu Iniciar e na Área de Trabalho, preservando seus dados em cada atualização **(recomendado)**. |
+| `Kaze.Launcher-Portable-0.9.2-x64.exe` | **Portable** | Executável único para rodar diretamente de qualquer pasta, sem instalação. |
 
 > [!NOTE]
 > Por ser uma distribuição independente sem certificado digital comercial, o Windows SmartScreen pode exibir um alerta na primeira execução. Clique em **Mais informações** e depois em **Executar assim mesmo**.
@@ -97,8 +97,8 @@ Escolha o formato desejado nos **Assets** da última release:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/sword.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Build Planner, Tier List &amp; Hunt Analyzer</strong></p>
-      <p>Simuladores alinhados ao motor atual do LoL Idle (<strong>15 campeões incl. Kai'Sa</strong>): <strong>PvE</strong>, <strong>Dungeon</strong> (7 Dungeons), <strong>PvP 1v1 (Arena e Runeterra)</strong> e nova aba <strong>Tier List</strong> (Nv. 45 / 65 / 100), com importação direta, comparador <strong>Build A vs B</strong> e <strong>Recomendação da Kaze</strong> com itens +5 e cartas por slot.</p>
+      <p><img src="./assets/icons/sword.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Build Planner &amp; Hunt Analyzer</strong></p>
+      <p>Simuladores com motor matemático auditado e alinhado ao LoL Idle atual (<strong>15 campeões incl. Kai'Sa</strong>, Serylda e A Coletora): <strong>PvE</strong>, <strong>Dungeon</strong> (7 Dungeons) e <strong>PvP 1v1 (Arena e Runeterra)</strong>, com importação direta, comparador <strong>Build A vs B</strong> e <strong>Recomendação da Kaze</strong> orientada a dados com itens +5 e cartas por slot.</p>
     </td>
     <td width="50%" valign="top">
       <p><img src="./assets/icons/puzzle.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Extensões por Conta &amp; Painel Lateral</strong></p>
@@ -156,7 +156,7 @@ Dedicated Windows x64 desktop client for **LoL Idle** featuring isolated multi-a
 
 <div align="center">
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-    <img src="./assets/ui/btn-download-en.svg" alt="Download Kaze Launcher v0.9.1" width="390" />
+    <img src="./assets/ui/btn-download-en.svg" alt="Download Kaze Launcher v0.9.2" width="390" />
   </a>
 </div>
 
@@ -166,8 +166,8 @@ Choose your preferred format under **Assets** on the latest release page:
 
 | File | Format | Best For |
 | :--- | :---: | :--- |
-| `Kaze.Launcher-Setup-0.9.1-x64.exe` | **Setup** | Creates Start Menu and Desktop shortcuts while keeping your data intact across updates **(recommended)**. |
-| `Kaze.Launcher-Portable-0.9.1-x64.exe` | **Portable** | Single executable that runs directly from any folder with no installation required. |
+| `Kaze.Launcher-Setup-0.9.2-x64.exe` | **Setup** | Creates Start Menu and Desktop shortcuts while keeping your data intact across updates **(recommended)**. |
+| `Kaze.Launcher-Portable-0.9.2-x64.exe` | **Portable** | Single executable that runs directly from any folder with no installation required. |
 
 > [!NOTE]
 > Because this independent build is not signed with a commercial certificate, Windows SmartScreen may show a warning on first launch. Click **More info**, then **Run anyway**.
@@ -187,8 +187,8 @@ Choose your preferred format under **Assets** on the latest release page:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="./assets/icons/sword.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Build Planner, Tier List &amp; Hunt Analyzer</strong></p>
-      <p>Simulators aligned with the live LoL Idle engine (<strong>15 champions incl. Kai'Sa</strong>): <strong>PvE</strong>, <strong>Dungeon</strong> (all 7 Dungeons), <strong>PvP 1v1 (Arena &amp; Runeterra)</strong>, and a new <strong>Tier List</strong> tab (Lv. 45 / 65 / 100), with live import, <strong>Build A vs B</strong> comparator, and <strong>Kaze Recommendation</strong> with +5 items &amp; per-slot cards.</p>
+      <p><img src="./assets/icons/sword.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Build Planner &amp; Hunt Analyzer</strong></p>
+      <p>Simulators powered by an audited mathematical engine aligned with live LoL Idle (<strong>15 champions incl. Kai'Sa</strong>, Serylda's &amp; The Collector): <strong>PvE</strong>, <strong>Dungeon</strong> (all 7 Dungeons), and <strong>PvP 1v1 (Arena &amp; Runeterra)</strong>, with live import, <strong>Build A vs B</strong> comparator, and data-driven <strong>Kaze Recommendation</strong> with +5 items &amp; per-slot cards.</p>
     </td>
     <td width="50%" valign="top">
       <p><img src="./assets/icons/puzzle.svg" width="24" height="24" align="absmiddle" /> &nbsp;<strong>Per-Account Extensions &amp; Side Panel</strong></p>
