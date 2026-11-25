@@ -24,7 +24,7 @@
 
 <p>
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-    <img src="./assets/ui/badge-version.svg" alt="Release v0.9.2" height="34" />
+    <img src="./assets/ui/badge-version.svg" alt="Release v0.9.3" height="34" />
   </a>&nbsp;
   <img src="./assets/ui/badge-windows.svg" alt="Windows 10/11 x64" height="34" />&nbsp;
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
@@ -66,7 +66,7 @@ Cliente desktop dedicado para jogar **LoL Idle** no Windows x64 com múltiplas c
 
 <div align="center">
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-    <img src="./assets/ui/btn-download-pt.svg" alt="Baixar Kaze Launcher v0.9.2" width="390" />
+    <img src="./assets/ui/btn-download-pt.svg" alt="Baixar Kaze Launcher v0.9.3" width="390" />
   </a>
 </div>
 
@@ -76,8 +76,8 @@ Escolha o formato desejado nos **Assets** da última release:
 
 | Arquivo | Formato | Indicação |
 | :--- | :---: | :--- |
-| `Kaze.Launcher-Setup-0.9.2-x64.exe` | **Setup** | Cria atalhos no Menu Iniciar e na Área de Trabalho, preservando seus dados em cada atualização **(recomendado)**. |
-| `Kaze.Launcher-Portable-0.9.2-x64.exe` | **Portable** | Executável único para rodar diretamente de qualquer pasta, sem instalação. |
+| `Kaze.Launcher-Setup-0.9.3-x64.exe` | **Setup** | Cria atalhos no Menu Iniciar e na Área de Trabalho, preservando seus dados em cada atualização **(recomendado)**. |
+| `Kaze.Launcher-Portable-0.9.3-x64.exe` | **Portable** | Executável único para rodar diretamente de qualquer pasta, sem instalação. |
 
 > [!NOTE]
 > Por ser uma distribuição independente sem certificado digital comercial, o Windows SmartScreen pode exibir um alerta na primeira execução. Clique em **Mais informações** e depois em **Executar assim mesmo**.
@@ -156,7 +156,7 @@ Dedicated Windows x64 desktop client for **LoL Idle** featuring isolated multi-a
 
 <div align="center">
   <a href="https://github.com/pureza-discord/Kaze-Releases/releases/latest">
-    <img src="./assets/ui/btn-download-en.svg" alt="Download Kaze Launcher v0.9.2" width="390" />
+    <img src="./assets/ui/btn-download-en.svg" alt="Download Kaze Launcher v0.9.3" width="390" />
   </a>
 </div>
 
@@ -166,8 +166,8 @@ Choose your preferred format under **Assets** on the latest release page:
 
 | File | Format | Best For |
 | :--- | :---: | :--- |
-| `Kaze.Launcher-Setup-0.9.2-x64.exe` | **Setup** | Creates Start Menu and Desktop shortcuts while keeping your data intact across updates **(recommended)**. |
-| `Kaze.Launcher-Portable-0.9.2-x64.exe` | **Portable** | Single executable that runs directly from any folder with no installation required. |
+| `Kaze.Launcher-Setup-0.9.3-x64.exe` | **Setup** | Creates Start Menu and Desktop shortcuts while keeping your data intact across updates **(recommended)**. |
+| `Kaze.Launcher-Portable-0.9.3-x64.exe` | **Portable** | Single executable that runs directly from any folder with no installation required. |
 
 > [!NOTE]
 > Because this independent build is not signed with a commercial certificate, Windows SmartScreen may show a warning on first launch. Click **More info**, then **Run anyway**.
